@@ -20,6 +20,8 @@ import sys
 # Glenn P. Downing
 # ---------------------------
 
+cache = {}
+
 # ------------
 # collatz_read
 # ------------
@@ -48,10 +50,14 @@ def collatz_eval (i, j) :
 
     max_cycle = 0
     for x in range(i, j+1):
-    	cycle = solver(x)
-    	if (cycle > max_cycle):
-    		max_cycle = cycle
-
+        cycle = 0
+        if x in cache:
+            cycle = cache[x]
+        else:
+            cycle = solver(x)
+            cache[x] = cycle
+        if (cycle > max_cycle):
+            max_cycle = cycle
 
     return max_cycle
 
