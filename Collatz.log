@@ -1,0 +1,101 @@
+commit d2ade2ca10cf2da04ec2dcda12106aa8b64fc315
+Author: LHBDev <rb27735@cs.utexas.edu>
+Date:   Thu Feb 5 05:33:20 2015 -0600
+
+    Final copy of TestCollatz.out
+
+commit c9cedcdf387ef63c263055976ca8f7f646298645
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 05:32:39 2015 -0600
+
+    removed redundant unit test
+
+commit 01385290f3dcfa7f8bf83435a4a6eb3c49dbd6e9
+Author: LHBDev <rb27735@cs.utexas.edu>
+Date:   Thu Feb 5 05:31:45 2015 -0600
+
+    syncing
+
+commit c0d20b24e1b78fce53e8952c75fd230780d8fc2b
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 05:29:35 2015 -0600
+
+    Updated Unit Tests
+
+commit 3dd17e0f11b8fa3593788bef81a4c41120446f90
+Author: Ruben Baeza <rb27735@cs.utexas.edu>
+Date:   Thu Feb 5 05:28:23 2015 -0600
+
+    syncing between cs machine and personal
+
+commit 351c026360a4b197329ba1fa51371e3a533cdccc
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 05:17:44 2015 -0600
+
+    Optimized to 0.001 seconds. Fixed #16. Fixed #15. Fixed #19.
+
+commit 7fadbabc27ff5024d34201fa71e809744ea2de05
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 05:15:27 2015 -0600
+
+    Added proper comments and style adheres to Google Style Guide. Fixed #13. Fixed #17. Fixed #18.
+
+commit 059c68d9d39e09c0a0abc89d2aa48857f916ec85
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 05:02:15 2015 -0600
+
+    Simple Cache now working and accepted by Sphere. Fixed #9. Fixed #12.
+
+commit 3bdebc66ae21b0a746ecdbf47d555fc7b4a33c08
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 05:00:24 2015 -0600
+
+    testing cache
+
+commit ee1e7362adca89e1818bc37cd2d463668da633fe
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 04:57:47 2015 -0600
+
+    Implemented simple cache. Fixed #8.
+
+commit 1cc6d3dba42961d1a7642c57ec5ecd168279a1e6
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 04:41:30 2015 -0600
+
+    Cloned public test repo. Fixed #7
+
+commit 78ea49b50cb090b6fb716c8a142a5bfc0b85e3ab
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 04:40:46 2015 -0600
+
+    100 lines of acceptance tests Completed. Fixed #6
+
+commit fdcbbb217ff2706dffa0c9a76002fabd2e534383
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 03:42:14 2015 -0600
+
+    Simple solution accepted by Sphere. Fixed #5. Fixed #11
+
+commit 9bc9e598d654fdccaf4806ef6a0f3dcb03aece52
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 02:39:09 2015 -0600
+
+    Implemented Simple Solution. Fixed #4.
+
+commit e6311b008e35d595dbe9c0e4cc8a10ca46e6a861
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 02:38:01 2015 -0600
+
+    Added unit tests. Fixed #3.
+
+commit 84933affd20ba6b7ac8a7b954c1d3ac193a6604b
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 01:39:41 2015 -0600
+
+    Fixed unit tests. Fixed #2.
+
+commit e98c11a77c5d1c73b923e945c136bfbf8b3c7352
+Author: LHBDev <freeraprb@gmail.com>
+Date:   Thu Feb 5 00:40:02 2015 -0600
+
+    Added files. Fixed #1.
