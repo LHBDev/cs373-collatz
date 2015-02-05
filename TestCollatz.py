@@ -13,7 +13,7 @@
 from io       import StringIO
 from unittest import main, TestCase
 
-from Collatz import collatz_read, collatz_eval, collatz_print, collatz_solve
+from Collatz import collatz_read, collatz_eval, collatz_print, collatz_solve, solver
 
 # -----------
 # TestCollatz
@@ -61,6 +61,21 @@ class TestCollatz (TestCase) :
     def test_eval_4 (self) :
         v = collatz_eval(900, 1000)
         self.assertEqual(v, 174)
+
+    # ------
+    # solver
+    # ------
+    def test_solver(self):
+        i = solver(1)
+        self.assertEqual(i, 1)
+
+    def test_solver2(self):
+        i = solver(8)
+        self.assertEqual(i, 4)
+
+    def test_solver2(self):
+        i = solver(3)
+        self.assertEqual(i, 8)
 
     # -----
     # print
