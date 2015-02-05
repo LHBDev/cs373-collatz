@@ -61,7 +61,15 @@ def collatz_eval (i, j) :
 
     return max_cycle
 
+# ------
+# solver
+# ------
 def solver (x):
+	"""
+	Finds the cycle length of x
+	Helper function for collatz_eval; does all the computation
+	returns the cycle length of x
+	"""
 
 	if (x == 0):
 		return 0
