@@ -55,6 +55,7 @@ def collatz_eval (i, j) :
             cycle = cache[x]
         else:
             cycle = solver(x)
+            cache[x] = cycle
         if (cycle > max_cycle):
             max_cycle = cycle
 
