@@ -62,7 +62,7 @@ def solver (x):
         if(x % 2 == 1):
             x = (3 * x) + 1
         else:
-            x = x/2
+            x = x>>1
         count += 1
     return count
 
