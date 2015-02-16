@@ -1,0 +1,20 @@
+rb27735
+5/5 github setup and commit log
+5/5 github issues
+15/15 sphere and cache
+15/15 average of 3 unit test per function
+13/15 100 lines of acceptance test
+10/10 Pydoc
+5/5 Google Form with time estimate.
+0/0 bonus and panalty points
+68/70 total
+comment:
+Invalid acceptance test -2
+Bonus:
+    -
+Penalty:
+    da9492 Passed
+    dpw454 Passed
+    gg8745 Passed
+    jab5948 Passed
+    jdt2737 Passed
